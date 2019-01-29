@@ -1,0 +1,267 @@
+#listTr {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#notice1:hover {
+	color: coral;
+}
+
+#qna1 {
+	position: relative;
+	left: 20px;
+}
+
+#qna1:hover {
+	color: coral;
+}
+
+#noticeTab {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#myContainer {
+	margin-top: 100px;
+	width: 600px;
+}
+
+div.fp-slidesContainer {
+	height: 600px;
+	background-color: #fab4fa;
+}
+
+div.fp-slidesNav.fp-bottom ul {
+	color: #ffffff;
+}
+
+#bodybaby {
+	background: #F2F2F2;
+	overflow: auto;
+}
+
+div.box-header.with-border {
+	background-color: #ffffff;
+}
+
+#fp-nav ul li a.active span, .fp-slidesNav ul li a.active span, #fp-nav ul li:hover a.active span,
+	.fp-slidesNav ul li:hover a.active span {
+	background-color: white;
+	height: 12px;
+	width: 12px;
+	margin: -6px 0 0 -6px;
+	border-radius: 100%;
+}
+
+#propilePhoto {
+	width: 40px;
+	height: 40px;
+	object-fit: cover;
+	border-radius: 50%;
+}
+
+div.button.active {
+	width: 40px;
+	height: 30px;
+}
+
+#heart {
+	position: relative;
+	top: 45px;
+	left: 50px;
+	margin-bottom: 50px;
+}
+
+button.glyphicon.glyphicon-comment {
+	position: relative;
+	left: 50px;
+	bottom: 20px;
+	font-size: 32px;
+	color: #737373;
+}
+
+div.button.active {
+	width: 40px;
+	height: 40px;
+}
+
+div.button {
+	width: 40px;
+	height: 40px;
+}
+
+#boxbody1 {
+	background-color: #ffffff;
+	height: auto;
+}
+
+#writerform {
+	position: relative;
+	right: 270px;
+	width: 100px;
+	padding-left: 30px;
+}
+
+#contentform {
+	width: 500px;
+	position: relative;
+	bottom: 38px;
+	left: 40px;
+	padding-left: 30px;
+}
+
+#replybtn7 {
+	background-color: #ffffff;
+	border: 0px;
+}
+
+#boxbody_main {
+	background-color: #e0e0e0;
+}
+
+#snsboardList {
+	background-color: #f2f2f2;
+}
+
+.popup {
+	position: absolute;
+}
+
+.back {
+	background-color: gray;
+	opacity: 0.5;
+	width: 100%;
+	height: 300%;
+	overflow: hidden;
+	z-index: 1101;
+}
+
+.front {
+	z-index: 1110;
+	opacity: 1;
+	border: 1px;
+	margin: auto;
+}
+
+.show {
+	position: relative;
+	max-width: 1200px;
+	max-height: 800px;
+	overflow: auto;
+}
+
+#replyModBtn {
+	bottom: 10px;
+	position: relative;
+}
+
+div.box.box-primary {
+	height: auto;
+}
+
+div.form-group {
+	margin-bottom: 70px;
+}
+
+div.form-group label {
+	position: relative;
+	bottom: 20px;
+	font-weight: bold;
+}
+
+input.form-control {
+	position: relative;
+	bottom: 20px;
+}
+
+textarea.form-control {
+	position: relative;
+	bottom: 20px;
+}
+
+button.btn.btn-info {
+	position: relative;
+	top: 0.5px;
+}
+
+div.box-header.with-border {
+	height: 60px;
+}
+
+#writerform {
+	position: relative;
+	top: 20px;
+}
+
+#contentform {
+	position: relative;
+	bottom: 87px;
+}
+
+input.form-control {
+	position: relative;
+	top: 2px;
+}
+
+.replyLi {
+	display: none;
+}
+
+div.form-group label {
+    font-size: 20px;
+}
+
+label.excerpt {
+    position: relative;
+    right: 30px;
+    font-weight: normal;
+}
+
+label.excerpt2 {
+    position: relative;
+    right: 30px;
+    font-weight: normal;
+}
+
+
+h3.timeline-header {
+    margin-bottom: 6px;
+}
+
+div.slide img {
+    height: 600px;
+}
+
+div.slide {
+    height: 600px;
+}
+
+ul.slides {
+    height: 600px;
+}
+.boxbody_footer {
+    position: relative;
+    bottom: 170px;
+}
+div.col-md-12 {
+    bottom: 50px;
+}
+
+.loadClass {
+    position: relative;
+    bottom: 10px;
+    font-size: 15px;
+}
+
+.loadClass:hover {
+    color: lightblue;
+}
+
+.box.box-success{
+ border-top-color: F08080;   
+}
+
+#likeform label strong {
+    font-weight: bold;
+    font-size: 15px;
+}
